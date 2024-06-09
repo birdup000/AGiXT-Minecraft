@@ -1,0 +1,9 @@
+name: AGiXT
+version: '${project.version}'
+main: org.birdup.agixt.AGiXT
+api-version: '1.20'
+commands:
+  getProviders:
+    description: Get the list of providers from AGiXT
+  getAgents:
+    description: Get the list of agents from AGiXT
